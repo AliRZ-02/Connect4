@@ -1,6 +1,6 @@
 # Connect4
 - This is the second Milestone Project of the Python Bootcamp on Udemy taught by Jose Portilla. 
-- Though the original task was to create a BlackJack game, I created a Connect4 game instead to demonstrate my OOP skills in a format with which I wa more familiar 
+- Though the original task was to create a BlackJack game, I created a Connect4 game instead to demonstrate my OOP skills in a format with which I was more familiar 
 - It is a simple Connect4 game with rudimentary graphics in the form of console output, being played against a computer or against another person. 
 - It accepts players and their names, randomizes the starting order to give a fair chance to both competitors and it updates and prints the board based on validated user input. 
 - The game provides the user with messages in the event of wins or ties and allows for the option to play again. 
